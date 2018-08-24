@@ -1,0 +1,11 @@
+name: BlockSpawnerWithTorch
+version: 1.0
+description: Block mobspawner with a torch
+
+author: teddify
+authors: []
+website: https://teddify.de
+
+main: de.teddify.BlockSpawnerWithTorch.BlockSpawnerWithTorch
+database: false
+api-version: 1.12.2
